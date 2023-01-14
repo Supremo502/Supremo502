@@ -1,3 +1,6 @@
+# Supremo502
+Learn with me by viewing my repositoreies about front-end development
+
 ![](https://github-readme-stats.vercel.app/api?username=Supremo502&count_private=true&show_icons=true&theme=algolia)
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supremo502&show_icons=true&theme=algolia)
@@ -8,6 +11,10 @@
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  </a> </p>
  <h3 align="left">Frameworks:</h3>
- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://th.bing.com/th/id/R.7321a5c4e2a5df026a063e326b36bfe9?rik=MSG%2bpNAiYTpGZw&pid=ImgRaw&r=0" alt"Bootstrap" width="40" height="40"/>
- 
-![](https://simpleicons.org/)
+ <a href="https://getbootstrap.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.0BLjxxiPCa4DSQzJtKMVSwHaHa?pid=ImgDet&rs=1" alt"Bootstrap" width="40" height="40"/>
+  
+ # Redes
+  | Redes |  Link |
+  |-------|----------|
+| Discord | [Discord](https://discord.gg/FcqSxTeTSc) |
+| GitHub | [GitHub](https://github.com/Supremo502)
