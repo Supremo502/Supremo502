@@ -8,7 +8,7 @@ Hello learn with me by viewing my repositories about **front-end development**
 ---
 ![](https://github-readme-stats.vercel.app/api/?username=Supremo502&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supremo502&show_icons=true&hide_border=true&theme=algolia&count_private=true)]
-
+![Github](github.com/Supremo502)
 ### redes
 [Discord](https://discord.gg/YyE9XFckqb) 
  <br>
