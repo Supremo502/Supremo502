@@ -7,8 +7,7 @@ Hello learn with me by viewing my repositories about **front-end development**
 ![](https://komarev.com/ghpvc/?username=Supremo502&color=blue)
 ---
 ![](https://github-readme-stats.vercel.app/api/?username=Supremo502&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supremo502&show_icons=true&hide_border=true&theme=algolia&count_private=true)]
-![Github](github.com/Supremo502)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supremo502&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 ### redes
 [Discord](https://discord.gg/YyE9XFckqb) 
  <br>
